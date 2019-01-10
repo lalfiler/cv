@@ -1,0 +1,25 @@
+#courses{
+	width:30%;
+}
+body{
+	background-color:#ebf0f6;
+}
+hr{
+	border-style:none;
+	border-top-style:dotted;
+	border-color:grey;
+	border-width:5px;
+	width:4%;
+}
+h1{
+	color:#132238;
+}
+h3,h4,th{
+	color:#364e68;
+}
+p{color:black;}
+#flat{
+	border-style:solid;
+	width:100%;
+	border-width:3px;
+}
